@@ -1,3 +1,4 @@
+A new line of text
 Hello
 File
 Two
